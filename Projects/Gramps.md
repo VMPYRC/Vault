@@ -1,10 +1,10 @@
 ---
 created: 2025-07-22
 modified: 2025-07-27
-description: 
-aliases: 
+description:
+aliases:
 tags:
-  - Project
+    - Project
 ---
 
 # Notes
@@ -148,7 +148,7 @@ Title Given (Call) "Nickname" Surname Suffix
 AppData\Roaming\gramps\gramps60\plugins\SyncAssociations\syncAssociations.py
 ```
 
-See https://codeberg.org/VMPYRC/Lab/src/branch/pages/python/syncAssociations.py
+See https://github.com/VMPYRC/Lab/blob/main/python/syncAssociations.py
 
 ## Zodiac Signs
 
